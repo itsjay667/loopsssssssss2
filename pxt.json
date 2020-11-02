@@ -1,0 +1,22 @@
+{
+    "name": "loopsssssssss2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "bluetooth": "*",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
